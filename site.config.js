@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '190f68ffeecf49159f0fbc125e8e75c0',
+  rootNotionPageId: '3cb2fb5819e44d51be13fc8b6089b258',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,18 +8,18 @@ module.exports = {
 
   // basic site info (required)
   name: 'Zhou Yi-Xin',
-  domain: 'https://crocus-handball-8b9.notion.site/Zhou-Yi-Xin-190f68ffeecf49159f0fbc125e8e75c0',
+  domain: 'https://zhou-yixin.notion.site/Zhou-Yi-Xin-3cb2fb5819e44d51be13fc8b6089b258',
   author: 'Zhou Yi-Xin',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+ // description: 'Example site description',
+ // socialImageTitle: 'Transitive Bullshit',
+  //socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  //twitter: 'transitive_bs',
+  //github: 'transitive-bullshit',
+ // linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
